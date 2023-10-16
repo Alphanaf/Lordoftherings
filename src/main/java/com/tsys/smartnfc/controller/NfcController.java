@@ -18,8 +18,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.tsys.eklavya.database.Dao;
-import com.tsys.eklavya.model.CustomerDetails;
+import com.tsys.smartnfc.database.Dao;
+import com.tsys.smartnfc.model.CustomerDetails;
 
 
 public class NfcController extends HttpServlet {

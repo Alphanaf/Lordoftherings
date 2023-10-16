@@ -12,7 +12,7 @@
 =========================================================
  -->
 <!-- beautify ignore:start -->
-<%@ page import="com.tsys.eklavya.model.CustomerDetails"%>
+<%@ page import="com.tsys.smartnfc.model.CustomerDetails"%>
 <%@ page import="java.util.List"%>
 <html lang="en" class="light-style layout-menu-fixed" dir="ltr"
 	data-theme="theme-default"

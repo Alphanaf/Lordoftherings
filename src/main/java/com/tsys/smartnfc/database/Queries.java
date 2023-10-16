@@ -1,4 +1,4 @@
-package com.tsys.eklavya.database;
+package com.tsys.smartnfc.database;
 
 public class Queries {
 public static final String addUser="insert into custinfo (name,userpin,cardnumber,tagid,cardtype,accountname) values(?,?,?,?,?,?)";

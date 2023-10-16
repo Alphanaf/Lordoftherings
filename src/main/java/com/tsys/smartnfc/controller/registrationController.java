@@ -13,8 +13,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.tsys.eklavya.database.Dao;
-import com.tsys.eklavya.model.CustomerDetails;
+import com.tsys.smartnfc.database.Dao;
+import com.tsys.smartnfc.model.CustomerDetails;
 
 public class registrationController extends HttpServlet {
 private static final long serialVersionUID = 1L;

@@ -1,4 +1,4 @@
-package com.tsys.eklavya.database;
+package com.tsys.smartnfc.database;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -18,7 +18,7 @@ import java.util.List;
 
 import javax.naming.spi.DirStateFactory.Result;
 
-import com.tsys.eklavya.model.CustomerDetails;
+import com.tsys.smartnfc.model.CustomerDetails;
 
 public class Dao {
 	static DatabaseConnection db=new DatabaseConnection();

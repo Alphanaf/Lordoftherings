@@ -1,4 +1,4 @@
-package com.tsys.eklavya.model;
+package com.tsys.smartnfc.model;
 
 
 
